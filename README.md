@@ -50,16 +50,6 @@ This system ensures seamless inventory tracking, prevents stock shortages, and r
 
 ---
 
-## 👥 TEAM MEMBERS
-
-- Fouzan Ahmed Mir (U01935931)
-- Sandipkumar Prajapati (U01911556)
-- Venkata Naga Sai Tarun Chegu (U01924651)
-- Manisri Kolli (U01911027)
-- Lakshmi Manasa Tumuluru (U01928569)
-
----
-
 ## 📚 USER INSTRUCTIONS
 
 - When the program starts, a menu will be displayed
